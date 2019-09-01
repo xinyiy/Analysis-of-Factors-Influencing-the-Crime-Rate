@@ -20,3 +20,13 @@ This is the final project of ANLY-501, which is also a collaborative project com
 + Data visualization
 
 Please check our final report at https://lemonning0713.wixsite.com/website/analysis.
+
+## ANLY-501_part_1_moonphase.py
++ Retrieve weather and moon phase data of 14 major cities in the US in 2017 using API from www.worldweatheronline.com.
++ Merge all the datasets of 14 cities into one.
+
+## ANLY-501_part_2_clustering_correlation_hypothesis_hist.py
++ Conduct unsupervised leaning using 3 clustering methods: K-means, DBSCAN and WARD.
++ Conduct correlation analysis and create correlation plots (heatmap).
++ Create histograms.
++ Conduct t-test, linear regression and logistic regression.
